@@ -115,7 +115,7 @@ GetKey.Text = "GetKey"
 GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 GetKey.TextSize = 14.000
 GetKey.MouseButton1Click:Connect(function()
-setclipboard("Dwi m3a mol key rak 3arf chkon howa") --YouWap
+setclipboard("https://discord.gg/R7uxhN7qdp") --YouWap
 log("Ty","9649923603",2)
 end)
 ButtonColor3.Thickness = 3.2
@@ -140,7 +140,7 @@ HowToGetKey.Text = "HowToGetKey"
 HowToGetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 HowToGetKey.TextSize = 14.000
 HowToGetKey.MouseButton1Click:Connect(function()
-setclipboard("Tahya 5ask dwi m3aya") --YouWap
+setclipboard("https://discord.gg/R7uxhN7qdp") --YouWap
 log("Thanks","9649923603",2)
 end)
 
@@ -4558,7 +4558,7 @@ Setting:Line()
 
 Setting:Button("Copy Discord Link",function()
  
- setclipboard("https://discord.gg/yPQarTm4")
+ setclipboard("https://discord.gg/R7uxhN7qdp")
  end)
 
 Setting:Seperator(" Setting ")
